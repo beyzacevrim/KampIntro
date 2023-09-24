@@ -29,6 +29,9 @@ namespace ValAndRef
              *value stack'te tanımlanır.
              *referance ise heap'te tanımlanır.
              *
+             *stack verilerin doğrudan saklandığı bir bellek alanıdır.
+             *heap ise veirlerin referanslarının bulunduğu dinamik bir bellek alanıdır.
+             *
              *number1 ve number2'yi tanımladığında stackte tanımlanırlar ve
              *number1 a number2 value'yu eşitlersen değeri stack'te kopyalar (atar)
              *
